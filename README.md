@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @venkatel
-- 👀 I’m interested in making low-code apps
+- 👀 I’m interested in making low-code apps, discovering new AI design tools
 - 🌱 I’m currently learning how to make low-code apps
 - 💞️ I’m looking to collaborate on new ideas as a designer
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
 <!---
